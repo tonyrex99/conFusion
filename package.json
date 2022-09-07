@@ -14,8 +14,14 @@
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
+    "ansi-styles": "^4.3.0",
+    "bootstrap": "^4.6.2",
+    "chokidar": "^3.5.3",
+    "follow-redirects": "^1.15.1",
     "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "picomatch": "^2.3.1",
+    "popper.js": "^1.16.1",
+    "ua-parser-js": "^1.0.2",
+    "wrap-ansi": "^7.0.0"
   }
 }
